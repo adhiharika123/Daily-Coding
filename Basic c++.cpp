@@ -1,3 +1,4 @@
+//used to include all libraries
 #include<bits/stdc++.h>
 using namespace std;
 int main()
