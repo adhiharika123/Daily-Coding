@@ -30,4 +30,5 @@ int main(){
         default:
             cout<<"Invalid Day";
     }
+    return 0;
 }
