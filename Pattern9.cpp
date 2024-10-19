@@ -26,7 +26,7 @@ void print8(int n){
                 cout<<" ";
             }
             //star
-            for(int j=0;j<2*n-(2*i+1);j++){
+            for(int j=0;j<(2*(n-i)-1);j++){
                 cout<<"*";
             }
             //space
