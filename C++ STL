@@ -1,0 +1,10 @@
+##STL 
+-It stands for Standard Template Library.
+-It consists of lot of predefined templates interms of containers and classes, which makes it very easy for developers to 
+implement different DSA without writing a complete code and worry about Time complexities.
+
+##Components
+-Containers
+-Algorithms
+-Iterators
+-Functions
