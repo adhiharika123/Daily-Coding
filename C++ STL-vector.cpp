@@ -109,14 +109,25 @@ void print(){
         cout<<num<<" ";
     }
     cout<<endl;
-
-
-
-
-
 }
-
 int main(){
     print();
     return 0;
 }
+
+##OUTPUT
+The elements are:1 2 3
+The Pair Elements are:(1,2)(3,4)
+The elements are:100 100 100 100 100
+The elements are:0 0 0 0 0
+The elements are copied from V1 to V2 are:20 20 20 20 20
+2 3 1
+The entire elements are:1 2 3
+0
+1 3
+1 2 3
+1 2 3 4
+1 3 4
+1 5 5 3 4
+
+Process returned 0 (0x0)   execution time : 0.299 s
