@@ -65,3 +65,16 @@ int main(){
     explainDeque();
     return 0;
 }
+
+##OUTPUT
+The elements are:1 2 3 4
+The elements are after pop back:1 2 3
+The elements are after pop front:2 3
+Last element: 3
+Front element: 2
+The Elements are: 2 3
+The elements after delete: 3
+The elements after inserting: 2 3
+The elements after inserting: 1 2 3
+The size is:3
+Process returned 0 (0x0)   execution time : 0.188 s
