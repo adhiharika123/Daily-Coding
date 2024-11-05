@@ -33,3 +33,13 @@ int main(){
     explainStack();
     return 0;
 }
+
+##OUTPUT
+The top element is: 5
+The top element after popping is: 4
+The size of Stack is: 4
+Is Stack Empty or Not: 0
+The Elements in Stack are: 4 3 2 1
+Is Stack Empty or Not: 1
+
+Process returned 0 (0x0)   execution time : 0.194 s
