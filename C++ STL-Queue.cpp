@@ -44,10 +44,23 @@ void explainQueue(){
         q2.pop();
     }
     cout<<endl;
-
 }
 
 int main(){
     explainQueue();
     return 0;
 }
+
+##OUTPUT
+The last element is: 5
+The last element is: 10
+The front element is: 1
+The front element after pop is: 2
+The size of Queue is: 4
+Is Queue is Empty or Not: 0
+The Elements are: 2 3 4 10
+Is Queue is Empty or Not: 1
+The q2 Elements are :10 20
+
+Process returned 0 (0x0)   execution time : 0.114 s
+
