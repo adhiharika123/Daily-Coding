@@ -83,9 +83,26 @@ void explainPriority_Queue(){
     cout<<endl;
 }
 
-
-
 int main(){
     explainPriority_Queue();
     return 0;
 }
+
+##OUTPUT
+The top element is: 9
+The top element after pop is: 4
+The size of Queue is: 4
+Is queue is Empty or Not: 0
+The Elements Are: 4 3 2 1
+Is queue is Empty or Not: 1
+The elements in pq2 are: 8 5
+---------------------------------------------------------The top element is: 2
+The top element after pop is: 3
+The size of Queue is: 4
+Is queue is Empty or Not: 0
+The Elements Are: 3 4 6 8
+Is queue is Empty or Not: 1
+The elements in pq32 are: 5 8
+
+Process returned 0 (0x0)   execution time : 0.191 s
+
